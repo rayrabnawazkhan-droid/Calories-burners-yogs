@@ -1,0 +1,8 @@
+{
+  "name": "Calories 🔥 Yoga",
+  "description": "A professional calorie-burning yoga app featuring AI-powered image editing to enhance your workout photos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
